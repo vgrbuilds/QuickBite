@@ -1,0 +1,8 @@
+
+{
+  "name": "QuickBite",
+  "description": "A canteen web app that detects the nearest college canteen and lets you place orders from their menu.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
